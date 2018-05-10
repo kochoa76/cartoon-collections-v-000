@@ -23,5 +23,6 @@ cheese_types = ["cheddar", "gouda", "camembert"]
 array.find do |word|
     word.include?(cheese_types.join(""))
   end
+end 
   array.join()
 end
