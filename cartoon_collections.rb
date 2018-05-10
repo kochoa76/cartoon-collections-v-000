@@ -22,6 +22,7 @@ def find_the_cheese(array)
 
 array.include? do |word|
     word.any?cheese_types)
-  end 
+  end
     return array
+end
 end
