@@ -23,5 +23,4 @@ cheese_types = ["cheddar", "gouda", "camembert"]
 array.find {|word|
     word.include?(["cheddar", "gouda", "camembert"])}
 
-return array
 end
