@@ -23,4 +23,3 @@ cheese_types = ["cheddar", "gouda", "camembert"]
 array.find {|word|
     word.include?(cheese_types)}
 end
-end
